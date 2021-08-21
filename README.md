@@ -1,2 +1,2 @@
 # Chicago-Blue-Line
-Maps project with Chicago as an example.  The first project in this repository is an animation of the Blue Line train moving from Chicago O'Hare to Forest Park.
+Maps project with Chicago as an example.  The first project in this repository is an animation of the Blue Line train moving from Chicago O'Hare to Forest Park. A future modification to this project would be real-time bus or train tracking.  The CTA locks their API down to not be available to be accessed from the browser, in the future I'll modify this through a proxy with a server.
